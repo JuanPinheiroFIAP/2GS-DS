@@ -9,7 +9,7 @@
 - Interface amigável para controle e visualização dos dados.
 - Relatórios detalhados para ajudar os usuários a entender e reduzir seus gastos.
 
-## Integrantes do Projeto
+## Integrantes do Projeto - Turma 2ESPW
 - **Juan Pinheiro**  
   RM: 552202  
 - **Bruno Caputo**  
